@@ -1,0 +1,6 @@
+paused will return boolean value i.e true or false
+
+video.paused?'play' : 'pause'
+currentTime
+duration
+timeupdate event 
